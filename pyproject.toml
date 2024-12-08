@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "shacl-doc-generator"
-version = "0.1.0"
+version = "0.2.0"
 description = "Documentation generator for SHACL shapes"
 authors = ["Your Name <your.email@example.com>"]
 

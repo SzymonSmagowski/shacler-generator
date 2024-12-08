@@ -1,0 +1,3 @@
+[submodule "shacl_files/schema"]
+	path = shacl_files/schema
+	url = https://github.com/RiverBench/schema
